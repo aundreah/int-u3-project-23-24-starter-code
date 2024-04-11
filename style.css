@@ -1,10 +1,20 @@
 /* When someone enters your game, you only want them to see the opening and the option buttons. The code below will use the display property to hide certain parts of the story. Remove the comments from the code below when you're ready for that step!*/
 
-/* 
 .option-one-screen, 
 .option-two-screen, 
 .option-one-end, 
-.option-two-end  {
+.option-two-end,
+.Sneaker-option-one-screen,
+.keeptrying-button,
+.giveup-button,
+.outofstock-option-two-screen,
+.footlocker-button,
+.smaller-button,
+.reappear-option-one-end,
+.quiter-option-two-end,
+.footlocker-option-one-end,
+.smaller-option-two-end
+{
    display:none;
 }
 */
